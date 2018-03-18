@@ -1,9 +1,0 @@
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\ServerLister.Service.Interfaces.dll
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\ServerLister.Service.Interfaces.pdb
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\log4net.dll
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\RestSharp.dll
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\System.ValueTuple.dll
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\log4net.xml
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\bin\Debug\System.ValueTuple.xml
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\obj\Debug\ServerLister.Service.Interfaces.dll
-C:\Users\aurel\Source\Repos\windowsparty\source\ServerList\ServerLister.Interfaces\obj\Debug\ServerLister.Service.Interfaces.pdb
